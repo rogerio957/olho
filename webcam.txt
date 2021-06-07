@@ -1,0 +1,56 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="1"
+https://v3.sportzonline.to/channels/pt/sporttv1.php
+EXTINF:-1 tvg-id="2"
+https://v3.sportzonline.to/channels/pt/sporttv2.php 
+EXTINF:-1 tvg-id="3"
+https://v3.sportzonline.to/channels/pt/sporttv3.php
+EXTINF:-1 tvg-id="4"
+https://v3.sportzonline.to/channels/pt/sporttv4.php
+EXTINF:-1 tvg-id="5"
+https://v3.sportzonline.to/channels/pt/sporttv5.php
+EXTINF:-1 tvg-id="6"
+https://s43.ipcamlive.com/streams/2btsgmbiflvxeu1wy/stream.m3u8
+EXTINF:-1 tvg-id="7"
+https://videos-3.earthcam.com/fecnetwork/hdtimes10.flv/chunklist_w1950466559.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwJhHP3Qk41a%2B7pG6NIhkRglJ5QHwwJnPCzV2BIcVtjpq
+EXTINF:-1 tvg-id="8"
+https://videos-3.earthcam.com/fecnetwork/15559.flv/chunklist_w366542186.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwJhHP3Qk41a%2B7pG6NIhkRglJ5QHwwJnPCzV2BIcVtjpq
+EXTINF:-1 tvg-id="9"
+https://videos-3.earthcam.com/fecnetwork/20331.flv/playlist.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwL45feV%2FI4qQBaiYXrbnEoh3a60Dn0L%2FghWOGPcqnxNL
+EXTINF:-1 tvg-id="10"
+https://videos-3.earthcam.com/fecnetwork/17017.flv/playlist.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwCcZef1jiwDraDHjs03x1WJSRZW9%2BPwp4%2BDt0nhr%2BvOt
+EXTINF:-1 tvg-id="11"
+https://videos-3.earthcam.com/fecnetwork/6320.flv/chunklist_w1383292034.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwClbUKNzMpTPw%2FVic5W%2B21k7%2BJbbDA1IY5b0sVdeh2RV
+EXTINF:-1 tvg-id="12"
+https://videos-3.earthcam.com/fecnetwork/17016.flv/chunklist_w1593240032.m3u8?t=IbjqQPqQhj6%2FAu7b5bDdwMU27J7b5EfZhnRM6NuBei5rcN85WHVt7%2FOAJqFERh88
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
